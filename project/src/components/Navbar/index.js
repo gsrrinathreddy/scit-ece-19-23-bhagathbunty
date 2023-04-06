@@ -55,7 +55,7 @@ function Navbar() {
               textDecoration: 'none',
             }}
           >
-            portfolio
+            Bhagath Bunty
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: 'flex', md: 'none' } }}>
